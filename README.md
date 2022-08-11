@@ -10,3 +10,6 @@ Non-Functional Requirements
 - Service should be easy to integrate with
 - Could use it to build a reusable web component (React maybe) that people can take and embed
 - What about if the service is down, could the web component still perform some level of checking?
+
+# Recipe macro breakdown
+A tool that can interpret an image of a recipe (from a book for example) and extract ingredients and their amounts and then present a macro breakdown for that meal
